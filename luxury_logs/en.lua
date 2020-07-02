@@ -1,0 +1,15 @@
+Locales['en'] = {
+	['server'] = 'Luxury RP',
+	['server_start'] = 'Luxury logs has initiated',
+	['server_item_transfer'] = 'ALERT! New item transaction',
+	['server_money_transfer'] = 'ALERT! New money transaction',
+	['server_bank_transfers'] = 'ALERT! New bank transaction',
+	['server_weapon_transfer'] = 'ALERT! New weapon transaction',
+	['server_washingmoney'] = 'ALERT! New money wash in progress',
+	['user_gives_to'] = 'gave to',
+	['user_washingmoney'] = 'has washed',
+	['withdraw'] = 'has withdrew',
+	['deposit'] = 'has deposited',
+	['bank'] = '$ from the national bank',
+	['server_twitter'] = 'Twitter',
+}
